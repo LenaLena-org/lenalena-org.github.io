@@ -19,3 +19,9 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+port: 5002
+source: source
+destination: deploy
+plugins_dir: plugins
+
