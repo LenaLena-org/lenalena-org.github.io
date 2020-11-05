@@ -10,7 +10,5 @@ preview-drafts: port
 add:
 	git add -A
 
-deploy-www:
-	[ -d ./deploy/ ] && sudo -u www rsync -va --delete ./deploy/ /usr/local/www/belemnita.com
 
 

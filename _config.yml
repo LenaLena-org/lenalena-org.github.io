@@ -22,6 +22,6 @@ markdown: kramdown
 
 port: 5002
 source: source
-destination: deploy
+destination: docs
 plugins_dir: plugins
 
