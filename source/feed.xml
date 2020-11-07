@@ -27,15 +27,12 @@ layout: null
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/images/itunes.png" />
-		<itunes:category text="Music" />
+		<itunes:image href="{{ site.url }}/images/1.jpg" />
+		<itunes:category text="Life" />
 		<itunes:category text="Technology">
 			<itunes:category text="Podcasting" />
 		</itunes:category>
-		<itunes:category text="Society &amp; Culture">
-			<itunes:category text="Philosophy" />
-		</itunes:category>
-		<itunes:explicit>yes</itunes:explicit>
+		<itunes:explicit>no</itunes:explicit>
 		{% for post in site.posts %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>

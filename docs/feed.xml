@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="">
 	<channel>
-		<atom:link href="http://yourdomain.com/podcast.rss" rel="self" type="application/rss+xml" />
-		<title>Your awesome title</title>
-		<description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+		<atom:link href="https://lenalena-org.github.io//podcast.rss" rel="self" type="application/rss+xml" />
+		<title>LenaLena podcast</title>
+		<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor  incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 </description>
-		<link>http://yourdomain.com</link>
+		<link>https://lenalena-org.github.io/</link>
 		<language></language>
-		<managingEditor>your-email@domain.com ()</managingEditor>
-		<webMaster>your-email@domain.com ()</webMaster>
-		<copyright>2014-2020-11-07 00:38:06 +0300 Your awesome title</copyright>
-		<pubDate>Sat, 07 Nov 2020 00:38:06 +0300</pubDate>
-		<lastBuildDate>Sat, 07 Nov 2020 00:38:06 +0300</lastBuildDate>
+		<managingEditor>lenalena-media@yandex.ru ()</managingEditor>
+		<webMaster>lenalena-media@yandex.ru ()</webMaster>
+		<copyright>2014-2020-11-07 17:09:14 +0300 LenaLena podcast</copyright>
+		<pubDate>Sat, 07 Nov 2020 17:09:14 +0300</pubDate>
+		<lastBuildDate>Sat, 07 Nov 2020 17:09:14 +0300</lastBuildDate>
 		<image>
-			<link>http://yourdomain.com</link>
-			<url>http://yourdomain.com/images/itunes.png</url>
-			<title>Your awesome title</title>
+			<link>https://lenalena-org.github.io/</link>
+			<url>https://lenalena-org.github.io//images/itunes.png</url>
+			<title>LenaLena podcast</title>
 		</image>
-		<itunes:subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+		<itunes:subtitle>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor  incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 </itunes:subtitle>
 		<itunes:author></itunes:author>
-		<itunes:summary>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+		<itunes:summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor  incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 </itunes:summary>
 		<itunes:keywords></itunes:keywords>
 		<itunes:owner>
 			<itunes:name></itunes:name>
-			<itunes:email>your-email@domain.com</itunes:email>
+			<itunes:email>lenalena-media@yandex.ru</itunes:email>
 		</itunes:owner>
-		<itunes:image href="http://yourdomain.com/images/itunes.png" />
+		<itunes:image href="https://lenalena-org.github.io//images/itunes.png" />
 		<itunes:category text="Music" />
 		<itunes:category text="Technology">
 			<itunes:category text="Podcasting" />
@@ -39,37 +39,37 @@
 		
 			<item>
 				<title>Vesuvius</title>
-				<link>http://yourdomain.com/2020/11/06/vesuvius.html</link>
+				<link>https://lenalena-org.github.io//2020/11/06/vesuvius.html</link>
 				<pubDate>Fri, 06 Nov 2020 11:00:00 +0300</pubDate>
 				<description>
 </description>
-				<guid isPermaLink="true">http://yourdomain.com/2020/11/06/vesuvius.html</guid>
+				<guid isPermaLink="true">https://lenalena-org.github.io//2020/11/06/vesuvius.html</guid>
 				<enclosure url="http:" length="" type="audio/mp3"/>
 				<itunes:author></itunes:author>
-				<itunes:subtitle>Your awesome title: Vesuvius</itunes:subtitle>
+				<itunes:subtitle>LenaLena podcast: Vesuvius</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
-				<itunes:image href="http://yourdomain.com/images/itunes.png" />
+				<itunes:image href="https://lenalena-org.github.io//images/itunes.png" />
 				<itunes:explicit>false</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
 			<item>
 				<title>Welcome to Jekyll!</title>
-				<link>http://yourdomain.com/jekyll/update/2020/11/05/welcome-to-jekyll.html</link>
+				<link>https://lenalena-org.github.io//jekyll/update/2020/11/05/welcome-to-jekyll.html</link>
 				<pubDate>Thu, 05 Nov 2020 22:26:49 +0300</pubDate>
 				<description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://yourdomain.com/jekyll/update/2020/11/05/welcome-to-jekyll.html</guid>
+				<guid isPermaLink="true">https://lenalena-org.github.io//jekyll/update/2020/11/05/welcome-to-jekyll.html</guid>
 				<enclosure url="http:" length="" type="audio/mp3"/>
 				<itunes:author></itunes:author>
-				<itunes:subtitle>Your awesome title: Welcome to Jekyll!</itunes:subtitle>
+				<itunes:subtitle>LenaLena podcast: Welcome to Jekyll!</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
-				<itunes:image href="http://yourdomain.com/images/itunes.png" />
+				<itunes:image href="https://lenalena-org.github.io//images/itunes.png" />
 				<itunes:explicit></itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
