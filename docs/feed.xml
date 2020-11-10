@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="">
 	<channel>
-		<atom:link href="https://lenalena-org.github.io//podcast.rss" rel="self" type="application/rss+xml" />
+		<atom:link href="https://lenalena-org.github.io/feed.rss" rel="self" type="application/rss+xml" />
 		<title>LenaLena podcast</title>
 		<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor  incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 </description>
-		<link>https://lenalena-org.github.io/</link>
+		<link>https://lenalena-org.github.io</link>
 		<language></language>
 		<managingEditor>lenalena-media@yandex.ru ()</managingEditor>
 		<webMaster>lenalena-media@yandex.ru ()</webMaster>
-		<copyright>2014-2020-11-07 17:09:14 +0300 LenaLena podcast</copyright>
-		<pubDate>Sat, 07 Nov 2020 17:09:14 +0300</pubDate>
-		<lastBuildDate>Sat, 07 Nov 2020 17:09:14 +0300</lastBuildDate>
+		<copyright>2014-2020-11-10 21:21:35 +0300 LenaLena podcast</copyright>
+		<pubDate>Tue, 10 Nov 2020 21:21:35 +0300</pubDate>
+		<lastBuildDate>Tue, 10 Nov 2020 21:21:35 +0300</lastBuildDate>
 		<image>
-			<link>https://lenalena-org.github.io/</link>
-			<url>https://lenalena-org.github.io//images/itunes.png</url>
+			<link>https://lenalena-org.github.io</link>
+			<url>https://lenalena-org.github.io/images/itunes.png</url>
 			<title>LenaLena podcast</title>
 		</image>
 		<itunes:subtitle>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor  incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
@@ -27,49 +27,46 @@
 			<itunes:name></itunes:name>
 			<itunes:email>lenalena-media@yandex.ru</itunes:email>
 		</itunes:owner>
-		<itunes:image href="https://lenalena-org.github.io//images/itunes.png" />
-		<itunes:category text="Music" />
+		<itunes:image href="https://lenalena-org.github.io/images/1.jpg" />
+		<itunes:category text="Life" />
 		<itunes:category text="Technology">
 			<itunes:category text="Podcasting" />
 		</itunes:category>
-		<itunes:category text="Society &amp; Culture">
-			<itunes:category text="Philosophy" />
-		</itunes:category>
-		<itunes:explicit>yes</itunes:explicit>
+		<itunes:explicit>no</itunes:explicit>
 		
 			<item>
 				<title>Vesuvius</title>
-				<link>https://lenalena-org.github.io//2020/11/06/vesuvius.html</link>
+				<link>https://lenalena-org.github.io/2020/11/06/vesuvius.html</link>
 				<pubDate>Fri, 06 Nov 2020 11:00:00 +0300</pubDate>
 				<description>
 </description>
-				<guid isPermaLink="true">https://lenalena-org.github.io//2020/11/06/vesuvius.html</guid>
+				<guid isPermaLink="true">https://lenalena-org.github.io/2020/11/06/vesuvius.html</guid>
 				<enclosure url="http:" length="" type="audio/mp3"/>
 				<itunes:author></itunes:author>
 				<itunes:subtitle>LenaLena podcast: Vesuvius</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://lenalena-org.github.io//images/itunes.png" />
+				<itunes:image href="https://lenalena-org.github.io/images/itunes.png" />
 				<itunes:explicit>false</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
 			<item>
 				<title>Welcome to Jekyll!</title>
-				<link>https://lenalena-org.github.io//jekyll/update/2020/11/05/welcome-to-jekyll.html</link>
+				<link>https://lenalena-org.github.io/jekyll/update/2020/11/05/welcome-to-jekyll.html</link>
 				<pubDate>Thu, 05 Nov 2020 22:26:49 +0300</pubDate>
 				<description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://lenalena-org.github.io//jekyll/update/2020/11/05/welcome-to-jekyll.html</guid>
+				<guid isPermaLink="true">https://lenalena-org.github.io/jekyll/update/2020/11/05/welcome-to-jekyll.html</guid>
 				<enclosure url="http:" length="" type="audio/mp3"/>
 				<itunes:author></itunes:author>
 				<itunes:subtitle>LenaLena podcast: Welcome to Jekyll!</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://lenalena-org.github.io//images/itunes.png" />
+				<itunes:image href="https://lenalena-org.github.io/images/itunes.png" />
 				<itunes:explicit></itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
