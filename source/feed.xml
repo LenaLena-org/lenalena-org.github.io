@@ -28,9 +28,8 @@ layout: null
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/images/1.jpg" />
-		<itunes:category text="Life" />
-		<itunes:category text="Technology">
-			<itunes:category text="Podcasting" />
+		<itunes:category text="Leisure">
+			<itunes:category text="Hobbies" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 		{% for post in site.posts %}
