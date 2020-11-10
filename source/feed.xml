@@ -27,7 +27,7 @@ layout: null
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/images/1.jpg" />
+		<itunes:image href="{{ site.url }}/images/2.jpg" />
 		<itunes:category text="Leisure">
 			<itunes:category text="Hobbies" />
 		</itunes:category>
