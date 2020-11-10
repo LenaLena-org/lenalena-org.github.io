@@ -9,9 +9,9 @@
 		<language>ru-RU</language>
 		<managingEditor>lenalena-media@yandex.ru ()</managingEditor>
 		<webMaster>lenalena-media@yandex.ru ()</webMaster>
-		<copyright>2014-2020-11-10 22:25:58 +0300 LenaLena podcast</copyright>
-		<pubDate>Tue, 10 Nov 2020 22:25:58 +0300</pubDate>
-		<lastBuildDate>Tue, 10 Nov 2020 22:25:58 +0300</lastBuildDate>
+		<copyright>2014-2020-11-10 22:43:00 +0300 LenaLena podcast</copyright>
+		<pubDate>Tue, 10 Nov 2020 22:43:00 +0300</pubDate>
+		<lastBuildDate>Tue, 10 Nov 2020 22:43:00 +0300</lastBuildDate>
 		<image>
 			<link>https://lenalena-org.github.io</link>
 			<url>https://lenalena-org.github.io/images/itunes.png</url>
@@ -40,7 +40,7 @@
 				<description>
 </description>
 				<guid isPermaLink="true">https://lenalena-org.github.io/2020-11/loch/</guid>
-				<enclosure url="http:" length="167421" type="audio/mp3"/>
+				<enclosure url="https://lenalena-org.github.io/mp3/loch.mp3" length="167421" type="audio/mp3"/>
 				<itunes:author></itunes:author>
 				<itunes:subtitle>LenaLena podcast: Loch</itunes:subtitle>
 				<itunes:summary></itunes:summary>
@@ -58,7 +58,7 @@
 				<description>
 </description>
 				<guid isPermaLink="true">https://lenalena-org.github.io/2020-11/sonata/</guid>
-				<enclosure url="http:" length="201761" type="audio/mp3"/>
+				<enclosure url="https://lenalena-org.github.io/mp3/sonata.mp3" length="201761" type="audio/mp3"/>
 				<itunes:author></itunes:author>
 				<itunes:subtitle>LenaLena podcast: Sonata</itunes:subtitle>
 				<itunes:summary></itunes:summary>
@@ -76,7 +76,7 @@
 				<description>
 </description>
 				<guid isPermaLink="true">https://lenalena-org.github.io/2020-11/vesuvius/</guid>
-				<enclosure url="http:" length="236099" type="audio/mp3"/>
+				<enclosure url="https://lenalena-org.github.io/mp3/vesuvius.mp3" length="236099" type="audio/mp3"/>
 				<itunes:author></itunes:author>
 				<itunes:subtitle>LenaLena podcast: Vesuvius</itunes:subtitle>
 				<itunes:summary></itunes:summary>
