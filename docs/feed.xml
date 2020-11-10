@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="ru-RU">
 	<channel>
-		<atom:link href="https://lenalena-org.github.io/feed.rss" rel="self" type="application/rss+xml" />
+		<atom:link href="https://lenalena-org.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		<title>LenaLena podcast</title>
 		<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor  incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 </description>
 		<link>https://lenalena-org.github.io</link>
-		<language></language>
+		<language>ru-RU</language>
 		<managingEditor>lenalena-media@yandex.ru ()</managingEditor>
 		<webMaster>lenalena-media@yandex.ru ()</webMaster>
-		<copyright>2014-2020-11-10 21:21:35 +0300 LenaLena podcast</copyright>
-		<pubDate>Tue, 10 Nov 2020 21:21:35 +0300</pubDate>
-		<lastBuildDate>Tue, 10 Nov 2020 21:21:35 +0300</lastBuildDate>
+		<copyright>2014-2020-11-10 21:28:10 +0300 LenaLena podcast</copyright>
+		<pubDate>Tue, 10 Nov 2020 21:28:10 +0300</pubDate>
+		<lastBuildDate>Tue, 10 Nov 2020 21:28:10 +0300</lastBuildDate>
 		<image>
 			<link>https://lenalena-org.github.io</link>
 			<url>https://lenalena-org.github.io/images/itunes.png</url>

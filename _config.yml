@@ -20,6 +20,8 @@ url: "https://lenalena-org.github.io" # the base hostname & protocol for your si
 #twitter_username: 
 github_username:  lenalena-media
 
+lang: ru-RU
+
 # Build settings
 markdown: kramdown
 
