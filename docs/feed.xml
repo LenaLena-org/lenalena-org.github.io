@@ -9,9 +9,9 @@
 		<language>ru-RU</language>
 		<managingEditor>lenalena-media@yandex.ru ()</managingEditor>
 		<webMaster>lenalena-media@yandex.ru ()</webMaster>
-		<copyright>2014-2020-11-10 21:44:15 +0300 LenaLena podcast</copyright>
-		<pubDate>Tue, 10 Nov 2020 21:44:15 +0300</pubDate>
-		<lastBuildDate>Tue, 10 Nov 2020 21:44:15 +0300</lastBuildDate>
+		<copyright>2014-2020-11-10 22:18:07 +0300 LenaLena podcast</copyright>
+		<pubDate>Tue, 10 Nov 2020 22:18:07 +0300</pubDate>
+		<lastBuildDate>Tue, 10 Nov 2020 22:18:07 +0300</lastBuildDate>
 		<image>
 			<link>https://lenalena-org.github.io</link>
 			<url>https://lenalena-org.github.io/images/itunes.png</url>
@@ -35,16 +35,16 @@
 		
 			<item>
 				<title>Vesuvius</title>
-				<link>https://lenalena-org.github.io/2020/11/06/vesuvius.html</link>
+				<link>https://lenalena-org.github.io/2020-11/vesuvius/</link>
 				<pubDate>Fri, 06 Nov 2020 11:00:00 +0300</pubDate>
 				<description>
 </description>
-				<guid isPermaLink="true">https://lenalena-org.github.io/2020/11/06/vesuvius.html</guid>
+				<guid isPermaLink="true">https://lenalena-org.github.io/2020-11/vesuvius/</guid>
 				<enclosure url="http:" length="" type="audio/mp3"/>
 				<itunes:author></itunes:author>
 				<itunes:subtitle>LenaLena podcast: Vesuvius</itunes:subtitle>
 				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
+				<itunes:duration>0:12</itunes:duration>
 				<itunes:keywords></itunes:keywords>
 				<itunes:image href="https://lenalena-org.github.io/images/itunes.png" />
 				<itunes:explicit>false</itunes:explicit>

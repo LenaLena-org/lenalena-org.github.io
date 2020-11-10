@@ -22,6 +22,8 @@ github_username:  lenalena-media
 
 lang: ru-RU
 
+permalink: /:year-:month/:title/
+
 # Build settings
 markdown: kramdown
 
