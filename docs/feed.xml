@@ -9,9 +9,9 @@
 		<language>ru-RU</language>
 		<managingEditor>lenalena-media@yandex.ru ()</managingEditor>
 		<webMaster>lenalena-media@yandex.ru ()</webMaster>
-		<copyright>2014-2020-11-10 21:33:47 +0300 LenaLena podcast</copyright>
-		<pubDate>Tue, 10 Nov 2020 21:33:47 +0300</pubDate>
-		<lastBuildDate>Tue, 10 Nov 2020 21:33:47 +0300</lastBuildDate>
+		<copyright>2014-2020-11-10 21:44:15 +0300 LenaLena podcast</copyright>
+		<pubDate>Tue, 10 Nov 2020 21:44:15 +0300</pubDate>
+		<lastBuildDate>Tue, 10 Nov 2020 21:44:15 +0300</lastBuildDate>
 		<image>
 			<link>https://lenalena-org.github.io</link>
 			<url>https://lenalena-org.github.io/images/itunes.png</url>
@@ -27,7 +27,7 @@
 			<itunes:name></itunes:name>
 			<itunes:email>lenalena-media@yandex.ru</itunes:email>
 		</itunes:owner>
-		<itunes:image href="https://lenalena-org.github.io/images/1.jpg" />
+		<itunes:image href="https://lenalena-org.github.io/images/2.jpg" />
 		<itunes:category text="Leisure">
 			<itunes:category text="Hobbies" />
 		</itunes:category>
