@@ -9,9 +9,9 @@
 		<language>ru-RU</language>
 		<managingEditor>lenalena-media@yandex.ru ()</managingEditor>
 		<webMaster>lenalena-media@yandex.ru ()</webMaster>
-		<copyright>2014-2020-11-10 21:28:10 +0300 LenaLena podcast</copyright>
-		<pubDate>Tue, 10 Nov 2020 21:28:10 +0300</pubDate>
-		<lastBuildDate>Tue, 10 Nov 2020 21:28:10 +0300</lastBuildDate>
+		<copyright>2014-2020-11-10 21:29:31 +0300 LenaLena podcast</copyright>
+		<pubDate>Tue, 10 Nov 2020 21:29:31 +0300</pubDate>
+		<lastBuildDate>Tue, 10 Nov 2020 21:29:31 +0300</lastBuildDate>
 		<image>
 			<link>https://lenalena-org.github.io</link>
 			<url>https://lenalena-org.github.io/images/itunes.png</url>
@@ -49,25 +49,6 @@
 				<itunes:keywords></itunes:keywords>
 				<itunes:image href="https://lenalena-org.github.io/images/itunes.png" />
 				<itunes:explicit>false</itunes:explicit>
-				<itunes:block></itunes:block>
-			</item>
-		
-			<item>
-				<title>Welcome to Jekyll!</title>
-				<link>https://lenalena-org.github.io/jekyll/update/2020/11/05/welcome-to-jekyll.html</link>
-				<pubDate>Thu, 05 Nov 2020 22:26:49 +0300</pubDate>
-				<description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">https://lenalena-org.github.io/jekyll/update/2020/11/05/welcome-to-jekyll.html</guid>
-				<enclosure url="http:" length="" type="audio/mp3"/>
-				<itunes:author></itunes:author>
-				<itunes:subtitle>LenaLena podcast: Welcome to Jekyll!</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://lenalena-org.github.io/images/itunes.png" />
-				<itunes:explicit></itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
