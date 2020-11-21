@@ -17,6 +17,7 @@ description: > # thiso means to ignore newlines until "baseurl:"
   Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lenalena-org.github.io" # the base hostname & protocol for your site
+prod_url: "https://lenalena-org.github.io" # the base hostname & protocol for your site
 #twitter_username: 
 github_username:  lenalena-media
 
