@@ -10,8 +10,8 @@
 		<managingEditor>lenalena-media@yandex.ru ()</managingEditor>
 		<webMaster>lenalena-media@yandex.ru ()</webMaster>
 		<copyright>2020-2020 LenaLena podcast</copyright>
-		<pubDate>Sat, 21 Nov 2020 19:21:04 +0300</pubDate>
-		<lastBuildDate>Sat, 21 Nov 2020 19:21:04 +0300</lastBuildDate>
+		<pubDate>Thu, 10 Dec 2020 18:34:05 +0300</pubDate>
+		<lastBuildDate>Thu, 10 Dec 2020 18:34:05 +0300</lastBuildDate>
 		<image>
 			<link>https://lenalena-org.github.io</link>
 			<url>https://lenalena-org.github.io/images/itunes.png</url>
@@ -32,6 +32,24 @@
 			<itunes:category text="Hobbies" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>Скороговорки</title>
+				<link>https://lenalena-org.github.io/2020-11/tongue-twisters/</link>
+				<pubDate>Fri, 06 Nov 2020 11:00:00 +0300</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">https://lenalena-org.github.io/2020-11/tongue-twisters/</guid>
+				<enclosure url="https://lenalena-org.github.io/mp3/tongue-twisters.mp3" length="1163322" type="audio/mp3"/>
+				<itunes:author></itunes:author>
+				<itunes:subtitle>LenaLena podcast: Скороговорки</itunes:subtitle>
+				<itunes:summary></itunes:summary>
+				<itunes:duration>1:47</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="https://lenalena-org.github.io/images/itunes.png" />
+				<itunes:explicit>false</itunes:explicit>
+				<itunes:block></itunes:block>
+			</item>
 		
 			<item>
 				<title>Loch</title>
